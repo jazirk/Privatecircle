@@ -1,0 +1,186 @@
+{
+  "companies" : [
+    {
+      "id": 1,
+      "date": "",
+      "name": "Competitive Intelligence",
+      "entities": 0
+    },
+    {
+      "id": 2,
+      "date": "",
+      "name": "Competitive Intelligence",
+      "entities": 0
+    },
+    {
+      "id": 3,
+      "date": "",
+      "name": "Competitive Intelligence",
+      "entities": 0
+    },
+    {
+      "id": 4,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 5,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 6,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 7,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 8,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 9,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 10,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 11,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 12,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 13,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 14,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 15,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 16,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 17,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 18,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 19,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    },
+    {
+      "id": 20,
+      "date": "Jul 3",
+      "name": "Test_30 results",
+      "entities": 28
+    }
+  ],
+  "details": [
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited","Bharathiasha Technologies Private Limited","(PrivateCircle)","Gala Precision Engineering Private Limited","Balaji Wafers Private Limited","Sangeetha Mobiles Private Limited","Vodafone Idea Limited","Vakrangee Ltd."]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    },
+    {
+      "companies" : ["Bundl Technologies Private Limited (Swiggy)","Hector Beverages Private Limited","Puma Sports India Private Limited","Dewan Housing Finance Corporation Ltd.","Infosys Limited","Think & Learn Private Limited","Delhivery Private Limited","Wow Momo Foods Private Limited","Rebel Foods Private Limited (Faasos)","Lendingkart Technologies Private Limited","ID Fresh Food (India) Private Limited"]
+    }
+  ]
+}
