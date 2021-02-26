@@ -1,0 +1,34 @@
+@import "src/assets/theme/resource/variable";
+
+section {
+  padding: 0.8rem;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+
+  .details__heading {
+    color: $pc-color-light-grey;
+    background-color: $pc-color-grey-light;
+    font-size: $pc-font-12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    span {
+      color: #13757f;
+    }
+  }
+
+  .details__list {
+    font-size: $pc-font-12px;
+    color: #0f2682;
+    place-items: flex-start;
+    height: 100%;
+    width: 100%;
+    line-height: 2;
+  }
+}

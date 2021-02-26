@@ -1,0 +1,21 @@
+<table>
+  <thead>
+  <th *ngFor="let header of headerTitles">{{header}}</th>
+  <th></th>
+  </thead>
+  <tbody>
+  <tr [class.active] ="selectedCompany === company?.id" class="table__row" *ngFor="let company of companies | filter:searchText:'name'">
+    <td *ngIf="company?.date">{{company?.date}}</td>
+    <td *ngIf="!company?.date"><img class="date__image" src="assets/icons/loading-process.svg"></td>
+    <td [class.no__date__name]="!company?.date">{{company?.name}}</td>
+    <td>{{company?.entities}}</td>
+    <td class="actions">
+      <img src="assets/icons/email.svg">
+      <img *ngIf="company?.date" src="assets/icons/share.svg">
+      <img *ngIf="company?.date" src="assets/icons/pen.svg">
+      <img *ngIf="company?.date" src="assets/icons/delete.svg">
+    </td>
+    <td><a [class.active] = "selectedCompany === company?.id" (click)="selectCompany(company)">Details</a></td>
+  </tr>
+  </tbody>
+</table>

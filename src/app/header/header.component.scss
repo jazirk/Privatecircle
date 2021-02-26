@@ -1,0 +1,40 @@
+@import "./src/assets/theme/resource/variable";
+@import "./src/assets/theme/resource/mixins";
+
+nav {
+  display: flex;
+  background-color: $pc-color-grey-light;
+  height: 3rem;
+  @include flex-box(nowrap, center, space-between);
+  padding: 1rem;
+  color: $pc-color-dark-grey;
+
+  ul {
+    display: flex;
+    gap: 2em;
+    font-size: $pc-font-14px;
+
+    li {
+      list-style: none;
+    }
+  }
+  .header__search {
+    width: 30%;
+    height: 1.5rem;
+    @include flex-box(nowrap, center, center);
+
+    input {
+      width: 100%;
+      border: none;
+      outline: none;
+      padding: 0.5rem;
+      border: 2px solid $pc-color-border-gray;
+    }
+  }
+}
+
+.active {
+  background-color: $pc-color-dark-blue;
+  padding: 10px;
+  color: white;
+}

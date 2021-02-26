@@ -1,0 +1,8 @@
+<nav>
+  <ul>
+    <li *ngFor="let title of headerTitles"><a [class.active]="title?.title === 'SAVED LIST'" [routerLink]="['saved-list']">{{title?.title}}</a></li>
+  </ul>
+  <div class="header__search">
+    <input (keyup)="search($event) "type="text" placeholder="Search">
+  </div>
+</nav>

@@ -1,0 +1,98 @@
+@import "src/assets/theme/resource/variable";
+@import "src/assets/theme/resource/mixins";
+
+:host {
+  overflow: auto;
+  @include scroll-bar();
+}
+@mixin table-cell($map...) {
+  $i: 1;
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-y: auto;
+
+    thead {
+      @include flex-box(nowrap, stretch, stretch);
+      font-size: $pc-font-12px;
+      color: $pc-color-light-grey;
+      border-bottom: 1px solid $pc-color-light-grey;
+    }
+
+    tr {
+      height: 3rem;
+      border-bottom: 1px solid $pc-color-light-grey;
+      @include flex-box(nowrap, stretch, stretch);
+      font-size: $pc-font-14px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: $pc-color-grey-light;
+      }
+    }
+
+    @each $size in $map {
+      td:nth-child(#{$i}) {
+        margin-right: 1%;
+        flex-basis: $size;
+        padding: 5px;
+        @include flex-box(nowrap, center, flex-start);
+        @if $i == 2 {
+          font-weight: bold;
+        }
+        @if $i == 4 {
+          gap: 15%;
+        }
+        @if $i == 3 {
+          justify-content: flex-end;
+        }
+        @content;
+      }
+      th:nth-child(#{$i}) {
+        margin-right: 1%;
+        flex-basis: $size;
+        padding: 5px;
+        @include flex-box(nowrap, center, flex-start);
+        @if $i == 3 {
+          justify-content: flex-end;
+        }
+        @content;
+      }
+      $i: $i+1;
+    }
+  }
+}
+
+@include table-cell(10%, 40%, 20%, 20%);
+
+
+img {
+  width: 15px;
+  height: auto;
+}
+
+.no__date__name {
+  color: #5E9BE5;
+}
+
+td {
+  @include flex-box(nowrap,center,stretch);
+  margin-right: 1px;
+
+  a {
+    color: #13757f;
+
+    &.active {
+      background-color: white;
+      padding: 2px;
+      border-bottom: 4px solid #13757f;
+      font-weight: 200;
+    }
+  }
+}
+
+tr.active {
+  background-color: $pc-color-grey-light;
+}
+
+
